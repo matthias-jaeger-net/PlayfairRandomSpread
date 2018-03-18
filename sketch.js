@@ -15,6 +15,8 @@
 *  Author
 *  Matthias Jäger, Graz 2018
 *
+*  Documentation:
+*  https://github.com/matthias-jaeger-net/PlayfairRandomSpread/
 *
 *  Playfair Display specimen:
 *  https://fonts.google.com/specimen/Playfair+Display
@@ -72,7 +74,7 @@ var svgpoints = [];
 // Stop drawing more random variations after 70 frames
 var frames = 70;
 
-
+// HTML div element to be selected via p5.dom.js
 var modal;
 
 
