@@ -155,7 +155,7 @@ function keyPressed() {
 
 // Returns a string to be rendered as svg file
 function createSVG(svgpoints) {
-   var string = "<?xml version="1.0" encoding="utf-8"?>";
+   var string = "<?xml version='1.0' encoding='utf-8'?>";
    string += "<svg width='" + width + "' height= '" + height + "' >";
    for(var i = 0; i < svgpoints.length; i++) {
       string += "<circle cx='";

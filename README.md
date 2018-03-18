@@ -10,6 +10,10 @@ https://matthias-jaeger-net.github.io/PlayfairRandomSpread/
 ![Playfair Random Spread](img/sample-3.png)
 ![Playfair Random Spread](img/sample-4.png)
 
+## SVG export
+![Playfair Random Spread](img/save.png)
+![Playfair Random Spread](img/result.png)
+
 
 ### Playfair Display specimen:  
 https://fonts.google.com/specimen/Playfair+Display  
